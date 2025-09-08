@@ -4,7 +4,6 @@ Olá, meu nome é Isabella Bonsanti. Sou programadora Full Stack.
 <img width="100" height="60" alt="C#" src="https://github.com/user-attachments/assets/8e714fe8-0db3-4bee-a051-adc8979487b0" />
 <img width="100" height="60" alt="CSS" src="https://github.com/user-attachments/assets/8d55fe51-822f-48a7-ac0e-dcc8b45083db" />
 <img width="100" height="60" alt="HTML" src="https://github.com/user-attachments/assets/1dd30fee-8d07-491e-806f-0b10d49be7d8" />
-<img width="100" height="60" alt="JS" src="https://github.com/user
 <img width="100" height="60" alt="php essa" src="https://github.com/user-attachments/assets/8b5be439-dab7-4d90-b28a-448fca80abca" />
 <img width="100" height="60" alt="javas" src="https://github.com/user-attachments/assets/46c4f48a-51ef-42f7-b9b4-db25d02246cf" />
 

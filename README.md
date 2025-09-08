@@ -1,4 +1,4 @@
-Olá, meu nome é Isabella Bonsanti. Sou programadora Full Stack.
+Olá, meu nome é Isabella Bonsanti. Sou Analista de Programação Full Stack.
 ##
 
 <img width="100" height="60" alt="AWS" src="https://github.com/user-attachments/assets/3090f4b3-d76b-4ea3-a247-264f083d85ae" />

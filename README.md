@@ -12,8 +12,7 @@ Olá, meu nome é Isabella Bonsanti. Sou Analista de Programação Full Stack.
 
 <img width="100" height="60" alt="linkedin" src="https://github.com/user-attachments/assets/7b1d21d6-85ed-4ba0-88e3-06f908758909" />
 : Isabella Bonsanti
-<img width="100" height="60" alt="gmail" src="https://github.com/user-attachments/assets/6a0764aa-05fd-4f54-9f3d-f92a5eb621b5" />
-: isabonsanti@gmail.com
+
 
 
 
